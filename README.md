@@ -1,4 +1,4 @@
-# Project3_VehicileAlgo
+# Project3_VehicleAlgo
 
 By: Karina Cabrera
 Purpose: Originally a class project to demonstrate conceptual knowledge of Adjacency lists and specific algorithms.
